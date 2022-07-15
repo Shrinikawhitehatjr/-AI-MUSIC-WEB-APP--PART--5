@@ -1,0 +1,18 @@
+.heading
+{
+    font-size: 23px;
+    padding: 1px;
+    box-shadow: yellowgreen;
+}
+.note
+{
+    font-style: italic;
+    color: rgb(135, 5, 37);
+}
+.canvas
+{
+    font-size: 20px;
+    border: red;
+    padding: 6px;
+    margin: 19px;
+}
